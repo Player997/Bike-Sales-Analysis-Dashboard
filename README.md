@@ -11,4 +11,4 @@ A comprehensive Excel dashboard analyzing sales trends, customer demographics, a
 
 ## 📁 Files
 * `Bike_Sales_Dashboard.xlsx`: The final interactive report.
-* `raw_data.csv`: The dataset used for analysis.
+* `raw_data.xlsx`: The dataset used for analysis.

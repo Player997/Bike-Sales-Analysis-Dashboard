@@ -1,2 +1,14 @@
-# Bike-Sales-Analysis-Dashboard
-This dashboard provides a comprehensive analysis of bike sales performance across different regions and demographics. It utilizes Pivot Tables and Slicers to create an interactive experience, allowing users to filter data by customer age, income levels, and commute distance.
+# Bike Sales Performance Dashboard
+A comprehensive Excel dashboard analyzing sales trends, customer demographics, and revenue growth.
+
+## 📊 Dashboard Preview
+![Dashboard Screenshot](dashboard_preview.png)
+
+## 🛠️ Key Features
+* **Dynamic Filters:** Slicers for Region, Education, and Occupation.
+* **KPI Tracking:** Visualized Income vs Purchase trends.
+* **Data Cleaning:** Handled missing values and categorized age groups using nested IF functions.
+
+## 📁 Files
+* `Bike_Sales_Dashboard.xlsx`: The final interactive report.
+* `raw_data.csv`: The dataset used for analysis.
